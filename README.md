@@ -7,4 +7,5 @@ Just an example of how I set up a computational/bioinformatics project
 ### results:  (directory) the good stuff -- proof that I'm doing my work and the work is important
 ### docs:  (directory) where I keep documentation, because I always document my projects
 ### README.md: (file) this file.  General overview of what this repository is about
+### other
 
